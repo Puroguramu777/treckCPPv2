@@ -1,0 +1,4 @@
+C:/Users/yanni/Documents/TrekAgency/build/CMakeFiles/TrekAgency.dir
+C:/Users/yanni/Documents/TrekAgency/build/CMakeFiles/INSTALL.dir
+C:/Users/yanni/Documents/TrekAgency/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/yanni/Documents/TrekAgency/build/CMakeFiles/ZERO_CHECK.dir

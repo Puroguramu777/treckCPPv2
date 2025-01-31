@@ -1,0 +1,22 @@
+^C:\USERS\YANNI\DOCUMENTS\TREKAGENCY\BUILD\CMAKEFILES\735CB6AAE06D247D7B29F58B8714AADF\AUTOUIC_(CONFIG).STAMP.RULE
+setlocal
+cd C:\Users\yanni\Documents\TrekAgency\build
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\YANNI\DOCUMENTS\TREKAGENCY\CMAKELISTS.TXT
+setlocal
+C:\CMake\bin\cmake.exe -SC:/Users/yanni/Documents/TrekAgency -BC:/Users/yanni/Documents/TrekAgency/build --check-stamp-file C:/Users/yanni/Documents/TrekAgency/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

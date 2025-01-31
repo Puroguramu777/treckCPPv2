@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\yanni\Documents\TrekAgency\build\TrekAgency_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\yanni\Documents\TrekAgency\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\yanni\Documents\TrekAgency\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\yanni\Documents\TrekAgency\database_manager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\yanni\Documents\TrekAgency\test_db.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\yanni\Documents\TrekAgency\build\TrekAgency_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\yanni\Documents\TrekAgency\build\TrekAgency_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\yanni\Documents\TrekAgency\build\TrekAgency_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\yanni\Documents\TrekAgency\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\yanni\Documents\TrekAgency\test_db.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\yanni\Documents\TrekAgency\database_manager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\yanni\Documents\TrekAgency\build\TrekAgency_autogen\include_Debug\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\yanni\Documents\TrekAgency\build\TrekAgency_autogen\include_Release\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\yanni\Documents\TrekAgency\build\TrekAgency_autogen\include_MinSizeRel\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\yanni\Documents\TrekAgency\build\TrekAgency_autogen\include_RelWithDebInfo\ui_mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\yanni\Documents\TrekAgency\build\CMakeFiles\735cb6aae06d247d7b29f58b8714aadf\autouic_(CONFIG).stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\yanni\Documents\TrekAgency\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\yanni\Documents\TrekAgency\mainwindow.ui" />
+    <None Include="C:\Users\yanni\Documents\TrekAgency\build\TrekAgency_autogen\autouic_Debug.stamp" />
+    <None Include="C:\Users\yanni\Documents\TrekAgency\build\TrekAgency_autogen\autouic_Release.stamp" />
+    <None Include="C:\Users\yanni\Documents\TrekAgency\build\TrekAgency_autogen\autouic_MinSizeRel.stamp" />
+    <None Include="C:\Users\yanni\Documents\TrekAgency\build\TrekAgency_autogen\autouic_RelWithDebInfo.stamp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B02A1A87-B9F3-3AC1-82FD-04756DB7EF7A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{98B12090-DF70-31F4-9077-5AEA3953AAAD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CFF6E732-718E-3D41-A1E9-2143386C0F4F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
